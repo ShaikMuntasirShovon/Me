@@ -1,0 +1,23 @@
+body{
+    margin: o;
+    font-family: 'Grenze Gotisch', cursive;
+}
+h1{
+    font size: 50px;
+}
+.go{
+    color: red;
+}
+.half-widht{
+    width: 40%;
+    float: left;  
+    margin-left: 5%;
+    padding-left: 2%;  
+}
+.half-widht img{
+    width: 80%;
+}
+.we{
+    width: 10px;
+}
+
