@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    font-family: 'Grenze Gotisch', cursive;
+
+}
+    
+h1{
+    font-size: 200%;
+    
+    margin-top: 10%;
+}
+.name{
+    color: red;
+    font-size: 200%;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.top{
+    background-image: url(file:///C:/Users/HP/Downloads/Compressed/complete-web-development-bangla-resources-master/personal-website/header-bg.png);
+    background-size: 100% 200%;
+}
+section{
+    height: 500px;
+}
+.img{
+    width: 100%;
+}
+.link{
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+
+.middle{
+    background-image: url(file:///C:/Users/HP/Downloads/Compressed/complete-web-development-bangla-resources-master/personal-website/biography-bg.png);
+    background-size: 100% 200%;
+}
+.im{
+    width: 70%;
+}
+.last{
+    background-image: url(file:///C:/Users/HP/Downloads/Compressed/complete-web-development-bangla-resources-master/personal-website/latest-work-bg.png);
+    background-size: 100% 200%;
+}
+.last{
+    text-align: center;
+}
+.y{
+    float: left;
+    width: 30%;
+    padding: 5px;
+}
+.at{
+    background-image: url(file:///C:/Users/HP/Downloads/Compressed/complete-web-development-bangla-resources-master/personal-website/footer-bg.png);
+    background-size: 100% 200%;
+}
+.x{
+    text-align: center;
+    font-weight: 700;
+}
+.j{
+    text-align: center;
+}
+.c{
+    
+   box-shadow: 5px 5px 5px 5px orange;
+   border-radius: 5px;
+
+    
+}
+.h{
+    text-align: center;
+    color: red;
+}
+.sh{
+    text-align: center;
+}
