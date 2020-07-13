@@ -21,7 +21,7 @@ h1{
     
 }
 .top{
-    background-image: url(file:///C:/Users/HP/Downloads/Compressed/complete-web-development-bangla-resources-master/personal-website/header-bg.png);
+    background-image: url(personal-website/header-bg.png);
     background-size: 100% 200%;
 }
 section{
@@ -39,14 +39,14 @@ section{
 }
 
 .middle{
-    background-image: url(file:///C:/Users/HP/Downloads/Compressed/complete-web-development-bangla-resources-master/personal-website/biography-bg.png);
+    background-image: url(personal-website/biography-bg.png);
     background-size: 100% 200%;
 }
 .im{
     width: 70%;
 }
 .last{
-    background-image: url(file:///C:/Users/HP/Downloads/Compressed/complete-web-development-bangla-resources-master/personal-website/latest-work-bg.png);
+    background-image: url(personal-website/footer-bg.png);
     background-size: 100% 200%;
 }
 .last{
@@ -58,7 +58,7 @@ section{
     padding: 5px;
 }
 .at{
-    background-image: url(file:///C:/Users/HP/Downloads/Compressed/complete-web-development-bangla-resources-master/personal-website/footer-bg.png);
+    background-image: url(personal-website/latest-work-bg.png);
     background-size: 100% 200%;
 }
 .x{
